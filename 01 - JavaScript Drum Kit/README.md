@@ -14,8 +14,14 @@ When you hit the corresponding key on your keyboard, it's going to do two things
 - play()
 - classList
 - document.querySelectorAll()
+- addEventListener()
 - forEach()
 - window
+
+
+## Demo
+
+https://drumkit-vanilla.netlify.app/
 
 ## Appendix
 
